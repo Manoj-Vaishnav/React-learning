@@ -1,0 +1,28 @@
+.button{
+  width: 30rem;
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  width: 30%;
+  height:50%;
+  border: 1px solid white;
+  border-radius: 50px;
+}
+.content{
+  width: 80vw;
+  height: 8rem;
+  display: grid;
+  place-items: center;
+}
+h3{
+  border: 1px solid white;
+  /* width: 60%; 
+  height:50%; */
+  border-radius: 50px;
+  /* text-align: center; */
+  padding: 20px;
+}
+
