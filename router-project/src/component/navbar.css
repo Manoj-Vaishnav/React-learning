@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    gap:20rem;
+    background-color: red;
+}
+.containt{
+   display: flex;
+   align-items: center;
+}
+ul{
+    display: flex;
+    gap:2rem;
+}
+li{
+    list-style: none;
+}
+.yellow{
+    background-color: yellow;
+    color:white;
+}
